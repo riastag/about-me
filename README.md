@@ -1,4 +1,4 @@
-# about-me
-hi i am a beginner developer
-learning python and trying my hand at web development
-want to grow and make cool projects
+## hello!
+I am a beginner developer interested in python programming and web development
+goal: to grow in development and create useful projects
+open to cooperation and new ideas
